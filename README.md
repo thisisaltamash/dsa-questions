@@ -6,11 +6,13 @@ there is a dsa problems which i solve past 6 months
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/thisisaltamash/dsa-questions/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/thisisaltamash/dsa-questions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/thisisaltamash/dsa-questions/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/thisisaltamash/dsa-questions/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/thisisaltamash/dsa-questions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/thisisaltamash/dsa-questions/tree/master/0704-binary-search) |
 ## Divide and Conquer
