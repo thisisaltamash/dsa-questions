@@ -87,4 +87,12 @@ there is a dsa problems which i solve past 6 months
 | [0074-search-a-2d-matrix](https://github.com/thisisaltamash/dsa-questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thisisaltamash/dsa-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/thisisaltamash/dsa-questions/tree/master/1901-find-a-peak-element-ii) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/thisisaltamash/dsa-questions/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/thisisaltamash/dsa-questions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
