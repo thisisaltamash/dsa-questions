@@ -7,6 +7,7 @@ there is a dsa problems which i solve past 6 months
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thisisaltamash/dsa-questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/thisisaltamash/dsa-questions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/thisisaltamash/dsa-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thisisaltamash/dsa-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/thisisaltamash/dsa-questions/tree/master/0035-search-insert-position) |
@@ -91,6 +92,7 @@ there is a dsa problems which i solve past 6 months
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/thisisaltamash/dsa-questions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/thisisaltamash/dsa-questions/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/thisisaltamash/dsa-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/thisisaltamash/dsa-questions/tree/master/1903-largest-odd-number-in-string) |
@@ -106,4 +108,8 @@ there is a dsa problems which i solve past 6 months
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/thisisaltamash/dsa-questions/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/thisisaltamash/dsa-questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
