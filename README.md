@@ -95,6 +95,7 @@ there is a dsa problems which i solve past 6 months
 | [0014-longest-common-prefix](https://github.com/thisisaltamash/dsa-questions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/thisisaltamash/dsa-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/thisisaltamash/dsa-questions/tree/master/0205-isomorphic-strings) |
+| [0796-rotate-string](https://github.com/thisisaltamash/dsa-questions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/thisisaltamash/dsa-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/thisisaltamash/dsa-questions/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -117,4 +118,8 @@ there is a dsa problems which i solve past 6 months
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/thisisaltamash/dsa-questions/tree/master/0205-isomorphic-strings) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/thisisaltamash/dsa-questions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
