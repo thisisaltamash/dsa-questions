@@ -73,6 +73,7 @@ there is a dsa problems which i solve past 6 months
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/thisisaltamash/dsa-questions/tree/master/0005-longest-palindromic-substring) |
 | [0410-split-array-largest-sum](https://github.com/thisisaltamash/dsa-questions/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -92,6 +93,7 @@ there is a dsa problems which i solve past 6 months
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/thisisaltamash/dsa-questions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/thisisaltamash/dsa-questions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/thisisaltamash/dsa-questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/thisisaltamash/dsa-questions/tree/master/0014-longest-common-prefix) |
@@ -111,6 +113,7 @@ there is a dsa problems which i solve past 6 months
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/thisisaltamash/dsa-questions/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/thisisaltamash/dsa-questions/tree/master/0151-reverse-words-in-a-string) |
 ## Math
 |  |
