@@ -120,6 +120,7 @@ there is a dsa problems which i solve past 6 months
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/thisisaltamash/dsa-questions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/thisisaltamash/dsa-questions/tree/master/0050-powx-n) |
 | [1903-largest-odd-number-in-string](https://github.com/thisisaltamash/dsa-questions/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -155,4 +156,8 @@ there is a dsa problems which i solve past 6 months
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/thisisaltamash/dsa-questions/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/thisisaltamash/dsa-questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/thisisaltamash/dsa-questions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
