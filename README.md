@@ -111,6 +111,7 @@ there is a dsa problems which i solve past 6 months
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/thisisaltamash/dsa-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/thisisaltamash/dsa-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/thisisaltamash/dsa-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
@@ -168,4 +169,16 @@ there is a dsa problems which i solve past 6 months
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/thisisaltamash/dsa-questions/tree/master/0022-generate-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/thisisaltamash/dsa-questions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/thisisaltamash/dsa-questions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/thisisaltamash/dsa-questions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
