@@ -140,6 +140,7 @@ there is a dsa problems which i solve past 6 months
 | [0205-isomorphic-strings](https://github.com/thisisaltamash/dsa-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/thisisaltamash/dsa-questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/thisisaltamash/dsa-questions/tree/master/0451-sort-characters-by-frequency) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/thisisaltamash/dsa-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/thisisaltamash/dsa-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/thisisaltamash/dsa-questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String Matching
@@ -191,6 +192,7 @@ there is a dsa problems which i solve past 6 months
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thisisaltamash/dsa-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/thisisaltamash/dsa-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/thisisaltamash/dsa-questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/thisisaltamash/dsa-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/thisisaltamash/dsa-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -207,6 +209,7 @@ there is a dsa problems which i solve past 6 months
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thisisaltamash/dsa-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/thisisaltamash/dsa-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/thisisaltamash/dsa-questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/thisisaltamash/dsa-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/thisisaltamash/dsa-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -225,6 +228,7 @@ there is a dsa problems which i solve past 6 months
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thisisaltamash/dsa-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/thisisaltamash/dsa-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/thisisaltamash/dsa-questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/thisisaltamash/dsa-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/thisisaltamash/dsa-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -236,5 +240,6 @@ there is a dsa problems which i solve past 6 months
 | [0104-maximum-depth-of-binary-tree](https://github.com/thisisaltamash/dsa-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/thisisaltamash/dsa-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/thisisaltamash/dsa-questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/thisisaltamash/dsa-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/thisisaltamash/dsa-questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
